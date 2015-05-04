@@ -13,7 +13,7 @@ from email.mime.image import MIMEImage
 global RESULT_FILE_NAME
 RESULT_FILE_NAME = "自动化测试报告"
 
-def sentmail(file_new):
+def sentmail(file_new, filename):
 	# 发信邮箱
 	mail_from = 'iman@hupu.net'
 
@@ -23,9 +23,9 @@ def sentmail(file_new):
 	#定义正文
 	f = open(file_new, 'rb')
 	mail_body = f.read()
-	print(mail_body)
+	# print(mail_body)
 	f.close()
-	print(file_new)
+	# print(file_new)
 	
 
 	#定义标题
@@ -39,7 +39,7 @@ def sentmail(file_new):
 
 	att = MIMEText(open(file_new, 'rb').read(), 'base64', 'utf-8')
 	att["Content-Type"] = 'application/octet-stream'
-	att["Content-Disposition"] = 'attachment; filename="%s"' % (file_new)
+	att["Content-Disposition"] = 'attachment; filename="%s"' % (filename)
 	msgRoot.attach(att)
 
 	#定义发送时间（不定义的可能有的邮件客户端会不显示发送时间）
@@ -70,10 +70,10 @@ def sendreport():
 	
 	#找到最新生成的文件
 	file_new = os.path.join(result_dir, lists[-1])
-	print(file_new)
+	# print(file_new)
 
 	#调用发邮件模块
-	sentmail(file_new)
+	sentmail(file_new, lists[-1])
 	print('email has send out !')
 	
 
