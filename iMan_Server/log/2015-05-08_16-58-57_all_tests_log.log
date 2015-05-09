@@ -1,0 +1,484 @@
+Fri, 08 May 2015 16:58:57 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2651/session {"desiredCapabilities": {"platform": "ANY", "javascriptEnabled": true, "browserName": "chrome", "chromeOptions": {"extensions": [], "args": []}, "version": ""}}
+Fri, 08 May 2015 16:58:58 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:58:58 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2651/session/510b8a1a0acfe78dca84867dc0a90418/timeouts/implicit_wait {"ms": 30000.0, "sessionId": "510b8a1a0acfe78dca84867dc0a90418"}
+Fri, 08 May 2015 16:58:58 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:58:58 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2651/session/510b8a1a0acfe78dca84867dc0a90418/window/current/maximize {"sessionId": "510b8a1a0acfe78dca84867dc0a90418", "windowHandle": "current"}
+Fri, 08 May 2015 16:58:59 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:58:59 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2651/session/510b8a1a0acfe78dca84867dc0a90418/url {"sessionId": "510b8a1a0acfe78dca84867dc0a90418", "url": "http://10.10.3.228/admin/"}
+Fri, 08 May 2015 16:59:02 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:02 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2651/session/510b8a1a0acfe78dca84867dc0a90418/element {"value": "//*[@id='tr0']/div/img", "using": "xpath", "sessionId": "510b8a1a0acfe78dca84867dc0a90418"}
+Fri, 08 May 2015 16:59:02 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:02 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2651/session/510b8a1a0acfe78dca84867dc0a90418/element/0.6017285482957959-1/click {"id": "0.6017285482957959-1", "sessionId": "510b8a1a0acfe78dca84867dc0a90418"}
+Fri, 08 May 2015 16:59:02 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:02 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2651/session/510b8a1a0acfe78dca84867dc0a90418/element {"value": "accountId", "using": "id", "sessionId": "510b8a1a0acfe78dca84867dc0a90418"}
+Fri, 08 May 2015 16:59:02 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:02 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2651/session/510b8a1a0acfe78dca84867dc0a90418/element/0.857205746229738-1/value {"value": ["a", "d", "m", "i", "n"], "id": "0.857205746229738-1", "sessionId": "510b8a1a0acfe78dca84867dc0a90418"}
+Fri, 08 May 2015 16:59:02 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:02 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2651/session/510b8a1a0acfe78dca84867dc0a90418/element {"value": "passwordId", "using": "id", "sessionId": "510b8a1a0acfe78dca84867dc0a90418"}
+Fri, 08 May 2015 16:59:02 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:02 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2651/session/510b8a1a0acfe78dca84867dc0a90418/element/0.857205746229738-2/value {"value": ["a", "d", "m", "i", "n"], "id": "0.857205746229738-2", "sessionId": "510b8a1a0acfe78dca84867dc0a90418"}
+Fri, 08 May 2015 16:59:02 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:02 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2651/session/510b8a1a0acfe78dca84867dc0a90418/element {"value": "companycodeId", "using": "id", "sessionId": "510b8a1a0acfe78dca84867dc0a90418"}
+Fri, 08 May 2015 16:59:02 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:02 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2651/session/510b8a1a0acfe78dca84867dc0a90418/element/0.857205746229738-3/value {"value": ["1", "0", "0", "0", "0", "0", "0", "0"], "id": "0.857205746229738-3", "sessionId": "510b8a1a0acfe78dca84867dc0a90418"}
+Fri, 08 May 2015 16:59:02 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:02 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2651/session/510b8a1a0acfe78dca84867dc0a90418/element {"value": "//input[@type='submit']", "using": "xpath", "sessionId": "510b8a1a0acfe78dca84867dc0a90418"}
+Fri, 08 May 2015 16:59:02 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:02 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2651/session/510b8a1a0acfe78dca84867dc0a90418/element/0.857205746229738-4/click {"id": "0.857205746229738-4", "sessionId": "510b8a1a0acfe78dca84867dc0a90418"}
+Fri, 08 May 2015 16:59:03 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:03 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2651/session/510b8a1a0acfe78dca84867dc0a90418/element {"value": "//*[@id='panel-1012-body']/div[1]", "using": "xpath", "sessionId": "510b8a1a0acfe78dca84867dc0a90418"}
+Fri, 08 May 2015 16:59:03 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:03 remote_connection.py[line:363] DEBUG GET http://127.0.0.1:2651/session/510b8a1a0acfe78dca84867dc0a90418/element/0.8509727125056088-1/text {"id": "0.8509727125056088-1", "sessionId": "510b8a1a0acfe78dca84867dc0a90418"}
+Fri, 08 May 2015 16:59:04 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:04 login.py[line:28] INFO iman_login_server-->test_login_server--> 登录服务器成功.
+Fri, 08 May 2015 16:59:04 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2651/session/510b8a1a0acfe78dca84867dc0a90418/element {"value": "//*[@id='panel-1012-body']/div[1]", "using": "xpath", "sessionId": "510b8a1a0acfe78dca84867dc0a90418"}
+Fri, 08 May 2015 16:59:04 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:04 remote_connection.py[line:363] DEBUG GET http://127.0.0.1:2651/session/510b8a1a0acfe78dca84867dc0a90418/element/0.8509727125056088-1/text {"id": "0.8509727125056088-1", "sessionId": "510b8a1a0acfe78dca84867dc0a90418"}
+Fri, 08 May 2015 16:59:04 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:04 iman_login_server.py[line:45] INFO iman_login_server-->test_login_server--> 互普网官 · 服务器   当前用户：admin
+Fri, 08 May 2015 16:59:04 remote_connection.py[line:363] DEBUG DELETE http://127.0.0.1:2651/session/510b8a1a0acfe78dca84867dc0a90418 {"sessionId": "510b8a1a0acfe78dca84867dc0a90418"}
+Fri, 08 May 2015 16:59:04 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:06 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session {"desiredCapabilities": {"platform": "ANY", "javascriptEnabled": true, "browserName": "chrome", "chromeOptions": {"extensions": [], "args": []}, "version": ""}}
+Fri, 08 May 2015 16:59:07 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:07 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/timeouts/implicit_wait {"ms": 30000.0, "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:07 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:07 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/window/current/maximize {"sessionId": "f2d2a82df9f813755fdfb1789545ea93", "windowHandle": "current"}
+Fri, 08 May 2015 16:59:07 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:07 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/url {"sessionId": "f2d2a82df9f813755fdfb1789545ea93", "url": "http://10.10.3.228/admin/"}
+Fri, 08 May 2015 16:59:10 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:10 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element {"value": "//*[@id='tr0']/div/img", "using": "xpath", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:10 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:10 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element/0.010114172473549843-1/click {"id": "0.010114172473549843-1", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:10 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:10 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element {"value": "accountId", "using": "id", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:10 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:10 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element/0.3708611377514899-1/value {"value": ["a", "d", "m", "i", "n"], "id": "0.3708611377514899-1", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:10 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:10 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element {"value": "passwordId", "using": "id", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:10 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:10 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element/0.3708611377514899-2/value {"value": ["a", "d", "m", "i", "n"], "id": "0.3708611377514899-2", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:10 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:10 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element {"value": "companycodeId", "using": "id", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:10 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:10 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element/0.3708611377514899-3/value {"value": ["1", "0", "0", "0", "0", "0", "0", "0"], "id": "0.3708611377514899-3", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:10 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:10 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element {"value": "//input[@type='submit']", "using": "xpath", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:10 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:10 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element/0.3708611377514899-4/click {"id": "0.3708611377514899-4", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:11 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:11 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element {"value": "//*[@id='panel-1012-body']/div[1]", "using": "xpath", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:11 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:11 remote_connection.py[line:363] DEBUG GET http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element/0.04696695739403367-1/text {"id": "0.04696695739403367-1", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:12 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:12 login.py[line:28] INFO iman_license-->test_1apply_for_authorisation--> 登录服务器成功.
+Fri, 08 May 2015 16:59:12 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element {"value": ".//*[@id='accreditInfo']/table/tbody/tr[1]/td[3]/a", "using": "xpath", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:12 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:12 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element/0.04696695739403367-2/click {"id": "0.04696695739403367-2", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:12 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:12 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element {"value": "//input[@id='aplCompNameId-inputEl']", "using": "xpath", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:12 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:12 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element/0.04696695739403367-3/value {"value": ["\u81ea", "\u52a8", "\u5316", " ", "c", "o", "d", "y", ".", "g", "u", "o", " ", "\u4e0a", "\u6d77", "\u4e92", "\u666e", "\u4fe1", "\u606f", "\u6280", "\u672f", "\u6709", "\u9650", "\u516c", "\u53f8"], "id": "0.04696695739403367-3", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:12 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:12 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element {"value": "//input[@id='aplRegAddrId-inputEl']", "using": "xpath", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:12 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:12 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element/0.04696695739403367-4/value {"value": ["\u81ea", "\u52a8", "\u5316", " ", "c", "o", "d", "y", ".", "g", "u", "o", " ", "\u7075", "\u5ca9", "\u5357", "\u8def", "2", "9", "5", "\u53f7"], "id": "0.04696695739403367-4", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:12 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:12 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element {"value": "//input[@id='aplContacterId-inputEl']", "using": "xpath", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:12 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:12 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element/0.04696695739403367-5/value {"value": ["\u81ea", "\u52a8", "\u5316", " ", "c", "o", "d", "y", ".", "g", "u", "o"], "id": "0.04696695739403367-5", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:12 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:12 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element {"value": "//input[@id='aplPhonenumId-inputEl']", "using": "xpath", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:12 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:12 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element/0.04696695739403367-6/value {"value": ["1", "8", "8", "2", "1", "2", "0", "1", "6", "4", "6"], "id": "0.04696695739403367-6", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:13 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:13 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element {"value": "//input[@id='aplEmailId-inputEl']", "using": "xpath", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:13 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:13 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element/0.04696695739403367-7/value {"value": ["h", "p", "1", "3", "1", "@", "h", "u", "p", "u", ".", "n", "e", "t"], "id": "0.04696695739403367-7", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:13 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:13 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element {"value": "//textarea[@id='aplRemarkId-inputEl']", "using": "xpath", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:13 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:13 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element/0.04696695739403367-8/value {"value": ["\u81ea", "\u52a8", "\u5316", " ", "c", "o", "d", "y", ".", "g", "u", "o", " ", "\u5907", "\u6ce8", "\u4fe1", "\u606f", "."], "id": "0.04696695739403367-8", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:13 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:13 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element {"value": "//div[@id='deviceTypeId-targetEl']/table[1]/tbody/tr/td[2]/input", "using": "xpath", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:13 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:13 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element/0.04696695739403367-9/value {"value": ["\ue00d"], "id": "0.04696695739403367-9", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:13 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:13 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element {"value": "//div[@id='nacApplyLicenseForm']/div[2]/div/div/div[1]/em/button", "using": "xpath", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:13 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:13 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element/0.04696695739403367-10/click {"id": "0.04696695739403367-10", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:13 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:15 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element {"value": "messagebox-1001-displayfield-inputEl", "using": "id", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:15 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:15 remote_connection.py[line:363] DEBUG GET http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element/0.04696695739403367-11/text {"id": "0.04696695739403367-11", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:15 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:15 iman_license.py[line:66] INFO iman_license-->test_1apply_for_authorisation--> 控制器--> 授权申请已提交成功,请等待管理员审核
+Fri, 08 May 2015 16:59:15 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element {"value": "//button[@id='button-1005-btnEl']", "using": "xpath", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:15 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:15 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element/0.04696695739403367-12/click {"id": "0.04696695739403367-12", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:15 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:15 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element {"value": ".//*[@id='accreditInfo']/table/tbody/tr[1]/td[3]/a", "using": "xpath", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:15 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:15 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element/0.04696695739403367-2/click {"id": "0.04696695739403367-2", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:15 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:15 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element {"value": "//input[@id='aplCompNameId-inputEl']", "using": "xpath", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:15 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:15 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element/0.04696695739403367-13/value {"value": ["\u81ea", "\u52a8", "\u5316", " ", "c", "o", "d", "y", ".", "g", "u", "o", " ", "\u4e0a", "\u6d77", "\u4e92", "\u666e", "\u4fe1", "\u606f", "\u6280", "\u672f", "\u6709", "\u9650", "\u516c", "\u53f8"], "id": "0.04696695739403367-13", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:16 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:16 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element {"value": "//input[@id='aplRegAddrId-inputEl']", "using": "xpath", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:16 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:16 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element/0.04696695739403367-14/value {"value": ["\u81ea", "\u52a8", "\u5316", " ", "c", "o", "d", "y", ".", "g", "u", "o", " ", "\u7075", "\u5ca9", "\u5357", "\u8def", "2", "9", "5", "\u53f7"], "id": "0.04696695739403367-14", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:16 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:16 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element {"value": "//input[@id='aplContacterId-inputEl']", "using": "xpath", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:16 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:16 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element/0.04696695739403367-15/value {"value": ["\u81ea", "\u52a8", "\u5316", " ", "c", "o", "d", "y", ".", "g", "u", "o"], "id": "0.04696695739403367-15", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:16 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:16 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element {"value": "//input[@id='aplPhonenumId-inputEl']", "using": "xpath", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:16 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:16 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element/0.04696695739403367-16/value {"value": ["1", "8", "8", "2", "1", "2", "0", "1", "6", "4", "6"], "id": "0.04696695739403367-16", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:16 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:16 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element {"value": "//input[@id='aplEmailId-inputEl']", "using": "xpath", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:16 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:16 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element/0.04696695739403367-17/value {"value": ["h", "p", "1", "3", "1", "@", "h", "u", "p", "u", ".", "n", "e", "t"], "id": "0.04696695739403367-17", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:16 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:16 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element {"value": "//textarea[@id='aplRemarkId-inputEl']", "using": "xpath", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:16 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:16 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element/0.04696695739403367-18/value {"value": ["\u81ea", "\u52a8", "\u5316", " ", "c", "o", "d", "y", ".", "g", "u", "o", " ", "\u5907", "\u6ce8", "\u4fe1", "\u606f", "."], "id": "0.04696695739403367-18", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:16 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:16 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element {"value": "//div[@id='deviceTypeId-targetEl']/table[2]/tbody/tr/td[2]/input", "using": "xpath", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:16 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:16 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element/0.04696695739403367-19/value {"value": ["\ue00d"], "id": "0.04696695739403367-19", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:17 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:17 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element {"value": "//div[@id='nacApplyLicenseForm']/div[2]/div/div/div[1]/em/button", "using": "xpath", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:17 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:17 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element/0.04696695739403367-20/click {"id": "0.04696695739403367-20", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:17 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:19 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element {"value": "messagebox-1001-displayfield-inputEl", "using": "id", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:19 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:19 remote_connection.py[line:363] DEBUG GET http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element/0.04696695739403367-11/text {"id": "0.04696695739403367-11", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:19 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:19 iman_license.py[line:66] INFO iman_license-->test_1apply_for_authorisation--> 服务器--> 授权申请已提交成功,请等待管理员审核
+Fri, 08 May 2015 16:59:19 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element {"value": "//button[@id='button-1005-btnEl']", "using": "xpath", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:19 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:19 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element/0.04696695739403367-12/click {"id": "0.04696695739403367-12", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:19 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:19 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element {"value": ".//*[@id='accreditInfo']/table/tbody/tr[1]/td[3]/a", "using": "xpath", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:19 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:19 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element/0.04696695739403367-2/click {"id": "0.04696695739403367-2", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:19 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:19 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element {"value": "//input[@id='aplCompNameId-inputEl']", "using": "xpath", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:19 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:19 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element/0.04696695739403367-21/value {"value": ["\u81ea", "\u52a8", "\u5316", " ", "c", "o", "d", "y", ".", "g", "u", "o", " ", "\u4e0a", "\u6d77", "\u4e92", "\u666e", "\u4fe1", "\u606f", "\u6280", "\u672f", "\u6709", "\u9650", "\u516c", "\u53f8"], "id": "0.04696695739403367-21", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:19 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:19 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element {"value": "//input[@id='aplRegAddrId-inputEl']", "using": "xpath", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:19 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:19 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element/0.04696695739403367-22/value {"value": ["\u81ea", "\u52a8", "\u5316", " ", "c", "o", "d", "y", ".", "g", "u", "o", " ", "\u7075", "\u5ca9", "\u5357", "\u8def", "2", "9", "5", "\u53f7"], "id": "0.04696695739403367-22", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:19 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:19 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element {"value": "//input[@id='aplContacterId-inputEl']", "using": "xpath", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:19 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:19 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element/0.04696695739403367-23/value {"value": ["\u81ea", "\u52a8", "\u5316", " ", "c", "o", "d", "y", ".", "g", "u", "o"], "id": "0.04696695739403367-23", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:19 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:19 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element {"value": "//input[@id='aplPhonenumId-inputEl']", "using": "xpath", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:19 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:19 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element/0.04696695739403367-24/value {"value": ["1", "8", "8", "2", "1", "2", "0", "1", "6", "4", "6"], "id": "0.04696695739403367-24", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:20 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:20 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element {"value": "//input[@id='aplEmailId-inputEl']", "using": "xpath", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:20 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:20 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element/0.04696695739403367-25/value {"value": ["h", "p", "1", "3", "1", "@", "h", "u", "p", "u", ".", "n", "e", "t"], "id": "0.04696695739403367-25", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:20 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:20 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element {"value": "//textarea[@id='aplRemarkId-inputEl']", "using": "xpath", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:20 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:20 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element/0.04696695739403367-26/value {"value": ["\u81ea", "\u52a8", "\u5316", " ", "c", "o", "d", "y", ".", "g", "u", "o", " ", "\u5907", "\u6ce8", "\u4fe1", "\u606f", "."], "id": "0.04696695739403367-26", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:20 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:20 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element {"value": "//div[@id='deviceTypeId-targetEl']/table[3]/tbody/tr/td[2]/input", "using": "xpath", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:20 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:20 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element/0.04696695739403367-27/value {"value": ["\ue00d"], "id": "0.04696695739403367-27", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:20 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:20 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element {"value": "//div[@id='nacApplyLicenseForm']/div[2]/div/div/div[1]/em/button", "using": "xpath", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:20 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:20 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element/0.04696695739403367-28/click {"id": "0.04696695739403367-28", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:20 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:22 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element {"value": "messagebox-1001-displayfield-inputEl", "using": "id", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:22 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:22 remote_connection.py[line:363] DEBUG GET http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element/0.04696695739403367-11/text {"id": "0.04696695739403367-11", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:22 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:22 iman_license.py[line:66] INFO iman_license-->test_1apply_for_authorisation--> 控制器+服务器--> 授权申请已提交成功,请等待管理员审核
+Fri, 08 May 2015 16:59:22 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element {"value": "//button[@id='button-1005-btnEl']", "using": "xpath", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:22 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:22 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93/element/0.04696695739403367-12/click {"id": "0.04696695739403367-12", "sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:22 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:22 remote_connection.py[line:363] DEBUG DELETE http://127.0.0.1:2687/session/f2d2a82df9f813755fdfb1789545ea93 {"sessionId": "f2d2a82df9f813755fdfb1789545ea93"}
+Fri, 08 May 2015 16:59:22 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:24 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2789/session {"desiredCapabilities": {"platform": "ANY", "javascriptEnabled": true, "browserName": "chrome", "chromeOptions": {"extensions": [], "args": []}, "version": ""}}
+Fri, 08 May 2015 16:59:25 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:25 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2789/session/747e1ee9379a52650997d57b080a00e5/timeouts/implicit_wait {"ms": 30000.0, "sessionId": "747e1ee9379a52650997d57b080a00e5"}
+Fri, 08 May 2015 16:59:25 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:25 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2789/session/747e1ee9379a52650997d57b080a00e5/window/current/maximize {"sessionId": "747e1ee9379a52650997d57b080a00e5", "windowHandle": "current"}
+Fri, 08 May 2015 16:59:25 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:25 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2789/session/747e1ee9379a52650997d57b080a00e5/url {"sessionId": "747e1ee9379a52650997d57b080a00e5", "url": "http://10.10.3.228/admin/"}
+Fri, 08 May 2015 16:59:28 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:28 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2789/session/747e1ee9379a52650997d57b080a00e5/element {"value": "//*[@id='tr0']/div/img", "using": "xpath", "sessionId": "747e1ee9379a52650997d57b080a00e5"}
+Fri, 08 May 2015 16:59:28 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:28 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2789/session/747e1ee9379a52650997d57b080a00e5/element/0.25452238298021257-1/click {"id": "0.25452238298021257-1", "sessionId": "747e1ee9379a52650997d57b080a00e5"}
+Fri, 08 May 2015 16:59:29 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:29 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2789/session/747e1ee9379a52650997d57b080a00e5/element {"value": "accountId", "using": "id", "sessionId": "747e1ee9379a52650997d57b080a00e5"}
+Fri, 08 May 2015 16:59:29 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:29 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2789/session/747e1ee9379a52650997d57b080a00e5/element/0.42445065709762275-1/value {"value": ["a", "d", "m", "i", "n"], "id": "0.42445065709762275-1", "sessionId": "747e1ee9379a52650997d57b080a00e5"}
+Fri, 08 May 2015 16:59:29 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:29 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2789/session/747e1ee9379a52650997d57b080a00e5/element {"value": "passwordId", "using": "id", "sessionId": "747e1ee9379a52650997d57b080a00e5"}
+Fri, 08 May 2015 16:59:29 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:29 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2789/session/747e1ee9379a52650997d57b080a00e5/element/0.42445065709762275-2/value {"value": ["a", "d", "m", "i", "n"], "id": "0.42445065709762275-2", "sessionId": "747e1ee9379a52650997d57b080a00e5"}
+Fri, 08 May 2015 16:59:29 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:29 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2789/session/747e1ee9379a52650997d57b080a00e5/element {"value": "companycodeId", "using": "id", "sessionId": "747e1ee9379a52650997d57b080a00e5"}
+Fri, 08 May 2015 16:59:29 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:29 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2789/session/747e1ee9379a52650997d57b080a00e5/element/0.42445065709762275-3/value {"value": ["1", "0", "0", "0", "0", "0", "0", "0"], "id": "0.42445065709762275-3", "sessionId": "747e1ee9379a52650997d57b080a00e5"}
+Fri, 08 May 2015 16:59:29 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:29 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2789/session/747e1ee9379a52650997d57b080a00e5/element {"value": "//input[@type='submit']", "using": "xpath", "sessionId": "747e1ee9379a52650997d57b080a00e5"}
+Fri, 08 May 2015 16:59:29 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:29 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2789/session/747e1ee9379a52650997d57b080a00e5/element/0.42445065709762275-4/click {"id": "0.42445065709762275-4", "sessionId": "747e1ee9379a52650997d57b080a00e5"}
+Fri, 08 May 2015 16:59:29 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:29 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2789/session/747e1ee9379a52650997d57b080a00e5/element {"value": "//*[@id='panel-1012-body']/div[1]", "using": "xpath", "sessionId": "747e1ee9379a52650997d57b080a00e5"}
+Fri, 08 May 2015 16:59:30 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:30 remote_connection.py[line:363] DEBUG GET http://127.0.0.1:2789/session/747e1ee9379a52650997d57b080a00e5/element/0.04608304658904672-1/text {"id": "0.04608304658904672-1", "sessionId": "747e1ee9379a52650997d57b080a00e5"}
+Fri, 08 May 2015 16:59:30 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:30 login.py[line:28] INFO iman_license-->test_2import_license--> 登录服务器成功.
+Fri, 08 May 2015 16:59:30 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2789/session/747e1ee9379a52650997d57b080a00e5/element {"value": ".//*[@id='accreditInfo']/table/tbody/tr[2]/td[3]/a", "using": "xpath", "sessionId": "747e1ee9379a52650997d57b080a00e5"}
+Fri, 08 May 2015 16:59:30 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:30 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2789/session/747e1ee9379a52650997d57b080a00e5/element/0.04608304658904672-2/click {"id": "0.04608304658904672-2", "sessionId": "747e1ee9379a52650997d57b080a00e5"}
+Fri, 08 May 2015 16:59:30 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:30 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2789/session/747e1ee9379a52650997d57b080a00e5/element {"value": "//*[@id='upLicenseId-buttonEl']", "using": "xpath", "sessionId": "747e1ee9379a52650997d57b080a00e5"}
+Fri, 08 May 2015 16:59:30 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:30 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2789/session/747e1ee9379a52650997d57b080a00e5/element/0.04608304658904672-3/click {"id": "0.04608304658904672-3", "sessionId": "747e1ee9379a52650997d57b080a00e5"}
+Fri, 08 May 2015 16:59:30 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:38 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2789/session/747e1ee9379a52650997d57b080a00e5/element {"value": "//div[@id='importLicenseForm']/div[2]/div/div/div[1]", "using": "xpath", "sessionId": "747e1ee9379a52650997d57b080a00e5"}
+Fri, 08 May 2015 16:59:38 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:38 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2789/session/747e1ee9379a52650997d57b080a00e5/element/0.04608304658904672-4/click {"id": "0.04608304658904672-4", "sessionId": "747e1ee9379a52650997d57b080a00e5"}
+Fri, 08 May 2015 16:59:38 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:41 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2789/session/747e1ee9379a52650997d57b080a00e5/element {"value": "//div[@id='messagebox-1001-displayfield-inputEl']", "using": "xpath", "sessionId": "747e1ee9379a52650997d57b080a00e5"}
+Fri, 08 May 2015 16:59:41 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:41 remote_connection.py[line:363] DEBUG GET http://127.0.0.1:2789/session/747e1ee9379a52650997d57b080a00e5/element/0.04608304658904672-5/text {"id": "0.04608304658904672-5", "sessionId": "747e1ee9379a52650997d57b080a00e5"}
+Fri, 08 May 2015 16:59:41 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:41 iman_license.py[line:106] ERROR iman_license-->test_2import_license--> 文件导入失败！
+Fri, 08 May 2015 16:59:41 remote_connection.py[line:363] DEBUG DELETE http://127.0.0.1:2789/session/747e1ee9379a52650997d57b080a00e5 {"sessionId": "747e1ee9379a52650997d57b080a00e5"}
+Fri, 08 May 2015 16:59:41 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:43 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2834/session {"desiredCapabilities": {"platform": "ANY", "javascriptEnabled": true, "browserName": "chrome", "chromeOptions": {"extensions": [], "args": []}, "version": ""}}
+Fri, 08 May 2015 16:59:45 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:45 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2834/session/6d2af80b2bf7df52b157594eebffc1e0/timeouts/implicit_wait {"ms": 30000.0, "sessionId": "6d2af80b2bf7df52b157594eebffc1e0"}
+Fri, 08 May 2015 16:59:45 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:45 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2834/session/6d2af80b2bf7df52b157594eebffc1e0/window/current/maximize {"sessionId": "6d2af80b2bf7df52b157594eebffc1e0", "windowHandle": "current"}
+Fri, 08 May 2015 16:59:45 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:45 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2834/session/6d2af80b2bf7df52b157594eebffc1e0/url {"sessionId": "6d2af80b2bf7df52b157594eebffc1e0", "url": "http://10.10.3.228/admin/"}
+Fri, 08 May 2015 16:59:48 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:48 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2834/session/6d2af80b2bf7df52b157594eebffc1e0/element {"value": "//*[@id='tr0']/div/img", "using": "xpath", "sessionId": "6d2af80b2bf7df52b157594eebffc1e0"}
+Fri, 08 May 2015 16:59:48 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:48 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2834/session/6d2af80b2bf7df52b157594eebffc1e0/element/0.7672363924793899-1/click {"id": "0.7672363924793899-1", "sessionId": "6d2af80b2bf7df52b157594eebffc1e0"}
+Fri, 08 May 2015 16:59:48 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:48 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2834/session/6d2af80b2bf7df52b157594eebffc1e0/element {"value": "accountId", "using": "id", "sessionId": "6d2af80b2bf7df52b157594eebffc1e0"}
+Fri, 08 May 2015 16:59:48 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:48 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2834/session/6d2af80b2bf7df52b157594eebffc1e0/element/0.9880061196163297-1/value {"value": ["a", "d", "m", "i", "n"], "id": "0.9880061196163297-1", "sessionId": "6d2af80b2bf7df52b157594eebffc1e0"}
+Fri, 08 May 2015 16:59:48 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:48 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2834/session/6d2af80b2bf7df52b157594eebffc1e0/element {"value": "passwordId", "using": "id", "sessionId": "6d2af80b2bf7df52b157594eebffc1e0"}
+Fri, 08 May 2015 16:59:48 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:48 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2834/session/6d2af80b2bf7df52b157594eebffc1e0/element/0.9880061196163297-2/value {"value": ["a", "d", "m", "i", "n"], "id": "0.9880061196163297-2", "sessionId": "6d2af80b2bf7df52b157594eebffc1e0"}
+Fri, 08 May 2015 16:59:48 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:48 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2834/session/6d2af80b2bf7df52b157594eebffc1e0/element {"value": "companycodeId", "using": "id", "sessionId": "6d2af80b2bf7df52b157594eebffc1e0"}
+Fri, 08 May 2015 16:59:48 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:48 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2834/session/6d2af80b2bf7df52b157594eebffc1e0/element/0.9880061196163297-3/value {"value": ["1", "0", "0", "0", "0", "0", "0", "0"], "id": "0.9880061196163297-3", "sessionId": "6d2af80b2bf7df52b157594eebffc1e0"}
+Fri, 08 May 2015 16:59:48 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:48 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2834/session/6d2af80b2bf7df52b157594eebffc1e0/element {"value": "//input[@type='submit']", "using": "xpath", "sessionId": "6d2af80b2bf7df52b157594eebffc1e0"}
+Fri, 08 May 2015 16:59:48 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:48 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2834/session/6d2af80b2bf7df52b157594eebffc1e0/element/0.9880061196163297-4/click {"id": "0.9880061196163297-4", "sessionId": "6d2af80b2bf7df52b157594eebffc1e0"}
+Fri, 08 May 2015 16:59:49 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:49 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2834/session/6d2af80b2bf7df52b157594eebffc1e0/element {"value": "//*[@id='panel-1012-body']/div[1]", "using": "xpath", "sessionId": "6d2af80b2bf7df52b157594eebffc1e0"}
+Fri, 08 May 2015 16:59:49 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:49 remote_connection.py[line:363] DEBUG GET http://127.0.0.1:2834/session/6d2af80b2bf7df52b157594eebffc1e0/element/0.07662951806560159-1/text {"id": "0.07662951806560159-1", "sessionId": "6d2af80b2bf7df52b157594eebffc1e0"}
+Fri, 08 May 2015 16:59:49 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:49 login.py[line:28] INFO iman_download_the_program-->test_1uploadPro--> 登录服务器成功.
+Fri, 08 May 2015 16:59:49 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2834/session/6d2af80b2bf7df52b157594eebffc1e0/element {"value": "btnE00", "using": "id", "sessionId": "6d2af80b2bf7df52b157594eebffc1e0"}
+Fri, 08 May 2015 16:59:49 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:49 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2834/session/6d2af80b2bf7df52b157594eebffc1e0/element/0.07662951806560159-2/click {"id": "0.07662951806560159-2", "sessionId": "6d2af80b2bf7df52b157594eebffc1e0"}
+Fri, 08 May 2015 16:59:50 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:50 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2834/session/6d2af80b2bf7df52b157594eebffc1e0/element {"value": "ext-gen1194", "using": "id", "sessionId": "6d2af80b2bf7df52b157594eebffc1e0"}
+Fri, 08 May 2015 16:59:50 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:50 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2834/session/6d2af80b2bf7df52b157594eebffc1e0/element/0.07662951806560159-3/click {"id": "0.07662951806560159-3", "sessionId": "6d2af80b2bf7df52b157594eebffc1e0"}
+Fri, 08 May 2015 16:59:50 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:50 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2834/session/6d2af80b2bf7df52b157594eebffc1e0/element {"value": "downloadProgramManageId-btnWrap", "using": "id", "sessionId": "6d2af80b2bf7df52b157594eebffc1e0"}
+Fri, 08 May 2015 16:59:51 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:51 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2834/session/6d2af80b2bf7df52b157594eebffc1e0/element/0.07662951806560159-4/click {"id": "0.07662951806560159-4", "sessionId": "6d2af80b2bf7df52b157594eebffc1e0"}
+Fri, 08 May 2015 16:59:51 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:51 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2834/session/6d2af80b2bf7df52b157594eebffc1e0/element {"value": "//*[@id='addSoftwareId-btnEl']", "using": "xpath", "sessionId": "6d2af80b2bf7df52b157594eebffc1e0"}
+Fri, 08 May 2015 16:59:52 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:52 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2834/session/6d2af80b2bf7df52b157594eebffc1e0/element/0.07662951806560159-5/click {"id": "0.07662951806560159-5", "sessionId": "6d2af80b2bf7df52b157594eebffc1e0"}
+Fri, 08 May 2015 16:59:52 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:52 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2834/session/6d2af80b2bf7df52b157594eebffc1e0/element {"value": "fileAliasNameId-inputEl", "using": "id", "sessionId": "6d2af80b2bf7df52b157594eebffc1e0"}
+Fri, 08 May 2015 16:59:52 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:52 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2834/session/6d2af80b2bf7df52b157594eebffc1e0/element/0.07662951806560159-6/value {"value": ["\u81ea", "\u52a8", "\u5316", " ", "c", "o", "d", "y", ".", "g", "u", "o", " ", "\u6d4b", "\u8bd5", "\u8f6f", "\u4ef6"], "id": "0.07662951806560159-6", "sessionId": "6d2af80b2bf7df52b157594eebffc1e0"}
+Fri, 08 May 2015 16:59:52 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:52 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2834/session/6d2af80b2bf7df52b157594eebffc1e0/element {"value": "//*[@id='uploadfileId-buttonEl']", "using": "xpath", "sessionId": "6d2af80b2bf7df52b157594eebffc1e0"}
+Fri, 08 May 2015 16:59:52 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:52 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2834/session/6d2af80b2bf7df52b157594eebffc1e0/element/0.07662951806560159-7/click {"id": "0.07662951806560159-7", "sessionId": "6d2af80b2bf7df52b157594eebffc1e0"}
+Fri, 08 May 2015 16:59:52 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:52 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2834/session/6d2af80b2bf7df52b157594eebffc1e0/element {"value": "softwareDescId-inputEl", "using": "id", "sessionId": "6d2af80b2bf7df52b157594eebffc1e0"}
+Fri, 08 May 2015 16:59:52 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:52 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2834/session/6d2af80b2bf7df52b157594eebffc1e0/element/0.07662951806560159-8/value {"value": ["\u81ea", "\u52a8", "\u5316", " ", "c", "o", "d", "y", ".", "g", "u", "o", " ", "\u6d4b", "\u8bd5", "\u5907", "\u6ce8", "."], "id": "0.07662951806560159-8", "sessionId": "6d2af80b2bf7df52b157594eebffc1e0"}
+Fri, 08 May 2015 16:59:52 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:57 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2834/session/6d2af80b2bf7df52b157594eebffc1e0/element {"value": "//div[@id='uploadSoftwareWindowId']/div[3]/div/div/div[1]", "using": "xpath", "sessionId": "6d2af80b2bf7df52b157594eebffc1e0"}
+Fri, 08 May 2015 16:59:57 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:59:57 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2834/session/6d2af80b2bf7df52b157594eebffc1e0/element/0.07662951806560159-9/click {"id": "0.07662951806560159-9", "sessionId": "6d2af80b2bf7df52b157594eebffc1e0"}
+Fri, 08 May 2015 16:59:57 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:00 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2834/session/6d2af80b2bf7df52b157594eebffc1e0/element {"value": ".//*[@id='messagebox-1001-displayfield-inputEl']", "using": "xpath", "sessionId": "6d2af80b2bf7df52b157594eebffc1e0"}
+Fri, 08 May 2015 17:00:00 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:00 remote_connection.py[line:363] DEBUG GET http://127.0.0.1:2834/session/6d2af80b2bf7df52b157594eebffc1e0/element/0.07662951806560159-10/text {"id": "0.07662951806560159-10", "sessionId": "6d2af80b2bf7df52b157594eebffc1e0"}
+Fri, 08 May 2015 17:00:00 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:00 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2834/session/6d2af80b2bf7df52b157594eebffc1e0/element {"value": ".//*[@id='button-1005-btnEl']", "using": "xpath", "sessionId": "6d2af80b2bf7df52b157594eebffc1e0"}
+Fri, 08 May 2015 17:00:00 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:00 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2834/session/6d2af80b2bf7df52b157594eebffc1e0/element/0.07662951806560159-11/click {"id": "0.07662951806560159-11", "sessionId": "6d2af80b2bf7df52b157594eebffc1e0"}
+Fri, 08 May 2015 17:00:01 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:01 iman_download_the_program.py[line:78] INFO iman_download_the_program-->test_1uploadPro--> 恭喜您，软件上传成功！
+Fri, 08 May 2015 17:00:01 remote_connection.py[line:363] DEBUG DELETE http://127.0.0.1:2834/session/6d2af80b2bf7df52b157594eebffc1e0 {"sessionId": "6d2af80b2bf7df52b157594eebffc1e0"}
+Fri, 08 May 2015 17:00:01 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:03 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2889/session {"desiredCapabilities": {"platform": "ANY", "javascriptEnabled": true, "browserName": "chrome", "chromeOptions": {"extensions": [], "args": []}, "version": ""}}
+Fri, 08 May 2015 17:00:04 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:04 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2889/session/8665d2a2df756646397a66fffcf733a8/timeouts/implicit_wait {"ms": 30000.0, "sessionId": "8665d2a2df756646397a66fffcf733a8"}
+Fri, 08 May 2015 17:00:04 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:04 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2889/session/8665d2a2df756646397a66fffcf733a8/window/current/maximize {"sessionId": "8665d2a2df756646397a66fffcf733a8", "windowHandle": "current"}
+Fri, 08 May 2015 17:00:04 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:04 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2889/session/8665d2a2df756646397a66fffcf733a8/url {"sessionId": "8665d2a2df756646397a66fffcf733a8", "url": "http://10.10.3.228/admin/"}
+Fri, 08 May 2015 17:00:07 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:07 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2889/session/8665d2a2df756646397a66fffcf733a8/element {"value": "//*[@id='tr0']/div/img", "using": "xpath", "sessionId": "8665d2a2df756646397a66fffcf733a8"}
+Fri, 08 May 2015 17:00:07 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:07 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2889/session/8665d2a2df756646397a66fffcf733a8/element/0.0865694978274405-1/click {"id": "0.0865694978274405-1", "sessionId": "8665d2a2df756646397a66fffcf733a8"}
+Fri, 08 May 2015 17:00:07 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:07 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2889/session/8665d2a2df756646397a66fffcf733a8/element {"value": "accountId", "using": "id", "sessionId": "8665d2a2df756646397a66fffcf733a8"}
+Fri, 08 May 2015 17:00:07 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:07 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2889/session/8665d2a2df756646397a66fffcf733a8/element/0.12182480422779918-1/value {"value": ["a", "d", "m", "i", "n"], "id": "0.12182480422779918-1", "sessionId": "8665d2a2df756646397a66fffcf733a8"}
+Fri, 08 May 2015 17:00:07 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:07 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2889/session/8665d2a2df756646397a66fffcf733a8/element {"value": "passwordId", "using": "id", "sessionId": "8665d2a2df756646397a66fffcf733a8"}
+Fri, 08 May 2015 17:00:07 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:07 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2889/session/8665d2a2df756646397a66fffcf733a8/element/0.12182480422779918-2/value {"value": ["a", "d", "m", "i", "n"], "id": "0.12182480422779918-2", "sessionId": "8665d2a2df756646397a66fffcf733a8"}
+Fri, 08 May 2015 17:00:07 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:07 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2889/session/8665d2a2df756646397a66fffcf733a8/element {"value": "companycodeId", "using": "id", "sessionId": "8665d2a2df756646397a66fffcf733a8"}
+Fri, 08 May 2015 17:00:07 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:07 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2889/session/8665d2a2df756646397a66fffcf733a8/element/0.12182480422779918-3/value {"value": ["1", "0", "0", "0", "0", "0", "0", "0"], "id": "0.12182480422779918-3", "sessionId": "8665d2a2df756646397a66fffcf733a8"}
+Fri, 08 May 2015 17:00:07 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:07 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2889/session/8665d2a2df756646397a66fffcf733a8/element {"value": "//input[@type='submit']", "using": "xpath", "sessionId": "8665d2a2df756646397a66fffcf733a8"}
+Fri, 08 May 2015 17:00:07 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:07 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2889/session/8665d2a2df756646397a66fffcf733a8/element/0.12182480422779918-4/click {"id": "0.12182480422779918-4", "sessionId": "8665d2a2df756646397a66fffcf733a8"}
+Fri, 08 May 2015 17:00:08 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:08 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2889/session/8665d2a2df756646397a66fffcf733a8/element {"value": "//*[@id='panel-1012-body']/div[1]", "using": "xpath", "sessionId": "8665d2a2df756646397a66fffcf733a8"}
+Fri, 08 May 2015 17:00:09 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:09 remote_connection.py[line:363] DEBUG GET http://127.0.0.1:2889/session/8665d2a2df756646397a66fffcf733a8/element/0.6967817561235279-1/text {"id": "0.6967817561235279-1", "sessionId": "8665d2a2df756646397a66fffcf733a8"}
+Fri, 08 May 2015 17:00:09 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:09 login.py[line:28] INFO iman_download_the_program-->test_2edit_program--> 登录服务器成功.
+Fri, 08 May 2015 17:00:09 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2889/session/8665d2a2df756646397a66fffcf733a8/element {"value": "btnE00", "using": "id", "sessionId": "8665d2a2df756646397a66fffcf733a8"}
+Fri, 08 May 2015 17:00:09 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:09 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2889/session/8665d2a2df756646397a66fffcf733a8/element/0.6967817561235279-2/click {"id": "0.6967817561235279-2", "sessionId": "8665d2a2df756646397a66fffcf733a8"}
+Fri, 08 May 2015 17:00:09 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:09 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2889/session/8665d2a2df756646397a66fffcf733a8/element {"value": "ext-gen1194", "using": "id", "sessionId": "8665d2a2df756646397a66fffcf733a8"}
+Fri, 08 May 2015 17:00:09 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:09 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2889/session/8665d2a2df756646397a66fffcf733a8/element/0.6967817561235279-3/click {"id": "0.6967817561235279-3", "sessionId": "8665d2a2df756646397a66fffcf733a8"}
+Fri, 08 May 2015 17:00:09 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:09 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2889/session/8665d2a2df756646397a66fffcf733a8/element {"value": "downloadProgramManageId-btnWrap", "using": "id", "sessionId": "8665d2a2df756646397a66fffcf733a8"}
+Fri, 08 May 2015 17:00:10 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:10 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2889/session/8665d2a2df756646397a66fffcf733a8/element/0.6967817561235279-4/click {"id": "0.6967817561235279-4", "sessionId": "8665d2a2df756646397a66fffcf733a8"}
+Fri, 08 May 2015 17:00:11 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:11 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2889/session/8665d2a2df756646397a66fffcf733a8/element {"value": "//div[@id='softwareManageId-body']/div/table/tbody/tr[2]", "using": "xpath", "sessionId": "8665d2a2df756646397a66fffcf733a8"}
+Fri, 08 May 2015 17:00:11 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:11 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2889/session/8665d2a2df756646397a66fffcf733a8/element/0.6967817561235279-5/click {"id": "0.6967817561235279-5", "sessionId": "8665d2a2df756646397a66fffcf733a8"}
+Fri, 08 May 2015 17:00:11 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:11 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2889/session/8665d2a2df756646397a66fffcf733a8/element {"value": "editSoftwareId-btnIconEl", "using": "id", "sessionId": "8665d2a2df756646397a66fffcf733a8"}
+Fri, 08 May 2015 17:00:11 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:11 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2889/session/8665d2a2df756646397a66fffcf733a8/element/0.6967817561235279-6/click {"id": "0.6967817561235279-6", "sessionId": "8665d2a2df756646397a66fffcf733a8"}
+Fri, 08 May 2015 17:00:11 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:11 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2889/session/8665d2a2df756646397a66fffcf733a8/element {"value": "editSoftwareNameId-inputEl", "using": "id", "sessionId": "8665d2a2df756646397a66fffcf733a8"}
+Fri, 08 May 2015 17:00:11 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:11 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2889/session/8665d2a2df756646397a66fffcf733a8/element/0.6967817561235279-7/clear {"id": "0.6967817561235279-7", "sessionId": "8665d2a2df756646397a66fffcf733a8"}
+Fri, 08 May 2015 17:00:11 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:11 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2889/session/8665d2a2df756646397a66fffcf733a8/element {"value": "editSoftwareNameId-inputEl", "using": "id", "sessionId": "8665d2a2df756646397a66fffcf733a8"}
+Fri, 08 May 2015 17:00:11 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:11 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2889/session/8665d2a2df756646397a66fffcf733a8/element/0.6967817561235279-7/value {"value": ["\u81ea", "\u52a8", "\u5316", " ", "c", "o", "d", "y", ".", "g", "u", "o", " ", "\u4fee", "\u6539", "\u4fe1", "\u606f"], "id": "0.6967817561235279-7", "sessionId": "8665d2a2df756646397a66fffcf733a8"}
+Fri, 08 May 2015 17:00:11 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:11 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2889/session/8665d2a2df756646397a66fffcf733a8/element {"value": "editSoftwareDescId-inputEl", "using": "id", "sessionId": "8665d2a2df756646397a66fffcf733a8"}
+Fri, 08 May 2015 17:00:11 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:11 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2889/session/8665d2a2df756646397a66fffcf733a8/element/0.6967817561235279-8/clear {"id": "0.6967817561235279-8", "sessionId": "8665d2a2df756646397a66fffcf733a8"}
+Fri, 08 May 2015 17:00:11 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:11 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2889/session/8665d2a2df756646397a66fffcf733a8/element {"value": "editSoftwareDescId-inputEl", "using": "id", "sessionId": "8665d2a2df756646397a66fffcf733a8"}
+Fri, 08 May 2015 17:00:12 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:12 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2889/session/8665d2a2df756646397a66fffcf733a8/element/0.6967817561235279-8/value {"value": ["\u81ea", "\u52a8", "\u5316", " ", "c", "o", "d", "y", ".", "g", "u", "o", " ", "\u4fee", "\u6539", "\u4fe1", "\u606f", " ", "\u5907", "\u6ce8"], "id": "0.6967817561235279-8", "sessionId": "8665d2a2df756646397a66fffcf733a8"}
+Fri, 08 May 2015 17:00:12 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:12 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2889/session/8665d2a2df756646397a66fffcf733a8/element {"value": "//div[@id='editSoftwareWindowId']/div[3]/div/div/div", "using": "xpath", "sessionId": "8665d2a2df756646397a66fffcf733a8"}
+Fri, 08 May 2015 17:00:12 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:12 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2889/session/8665d2a2df756646397a66fffcf733a8/element/0.6967817561235279-9/click {"id": "0.6967817561235279-9", "sessionId": "8665d2a2df756646397a66fffcf733a8"}
+Fri, 08 May 2015 17:00:12 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:12 iman_download_the_program.py[line:108] INFO iman_download_the_program-->test_2edit_program--> 修改信息成功.
+Fri, 08 May 2015 17:00:12 remote_connection.py[line:363] DEBUG DELETE http://127.0.0.1:2889/session/8665d2a2df756646397a66fffcf733a8 {"sessionId": "8665d2a2df756646397a66fffcf733a8"}
+Fri, 08 May 2015 17:00:12 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:14 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2944/session {"desiredCapabilities": {"platform": "ANY", "javascriptEnabled": true, "browserName": "chrome", "chromeOptions": {"extensions": [], "args": []}, "version": ""}}
+Fri, 08 May 2015 17:00:15 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:15 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2944/session/dde137d106acf23d75ba4001074430a9/timeouts/implicit_wait {"ms": 30000.0, "sessionId": "dde137d106acf23d75ba4001074430a9"}
+Fri, 08 May 2015 17:00:15 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:15 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2944/session/dde137d106acf23d75ba4001074430a9/window/current/maximize {"sessionId": "dde137d106acf23d75ba4001074430a9", "windowHandle": "current"}
+Fri, 08 May 2015 17:00:15 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:15 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2944/session/dde137d106acf23d75ba4001074430a9/url {"sessionId": "dde137d106acf23d75ba4001074430a9", "url": "http://10.10.3.228/admin/"}
+Fri, 08 May 2015 17:00:18 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:18 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2944/session/dde137d106acf23d75ba4001074430a9/element {"value": "//*[@id='tr0']/div/img", "using": "xpath", "sessionId": "dde137d106acf23d75ba4001074430a9"}
+Fri, 08 May 2015 17:00:18 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:18 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2944/session/dde137d106acf23d75ba4001074430a9/element/0.3640607404522598-1/click {"id": "0.3640607404522598-1", "sessionId": "dde137d106acf23d75ba4001074430a9"}
+Fri, 08 May 2015 17:00:19 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:19 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2944/session/dde137d106acf23d75ba4001074430a9/element {"value": "accountId", "using": "id", "sessionId": "dde137d106acf23d75ba4001074430a9"}
+Fri, 08 May 2015 17:00:19 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:19 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2944/session/dde137d106acf23d75ba4001074430a9/element/0.46308362460695207-1/value {"value": ["a", "d", "m", "i", "n"], "id": "0.46308362460695207-1", "sessionId": "dde137d106acf23d75ba4001074430a9"}
+Fri, 08 May 2015 17:00:19 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:19 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2944/session/dde137d106acf23d75ba4001074430a9/element {"value": "passwordId", "using": "id", "sessionId": "dde137d106acf23d75ba4001074430a9"}
+Fri, 08 May 2015 17:00:19 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:19 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2944/session/dde137d106acf23d75ba4001074430a9/element/0.46308362460695207-2/value {"value": ["a", "d", "m", "i", "n"], "id": "0.46308362460695207-2", "sessionId": "dde137d106acf23d75ba4001074430a9"}
+Fri, 08 May 2015 17:00:19 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:19 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2944/session/dde137d106acf23d75ba4001074430a9/element {"value": "companycodeId", "using": "id", "sessionId": "dde137d106acf23d75ba4001074430a9"}
+Fri, 08 May 2015 17:00:19 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:19 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2944/session/dde137d106acf23d75ba4001074430a9/element/0.46308362460695207-3/value {"value": ["1", "0", "0", "0", "0", "0", "0", "0"], "id": "0.46308362460695207-3", "sessionId": "dde137d106acf23d75ba4001074430a9"}
+Fri, 08 May 2015 17:00:19 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:19 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2944/session/dde137d106acf23d75ba4001074430a9/element {"value": "//input[@type='submit']", "using": "xpath", "sessionId": "dde137d106acf23d75ba4001074430a9"}
+Fri, 08 May 2015 17:00:19 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:19 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2944/session/dde137d106acf23d75ba4001074430a9/element/0.46308362460695207-4/click {"id": "0.46308362460695207-4", "sessionId": "dde137d106acf23d75ba4001074430a9"}
+Fri, 08 May 2015 17:00:19 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:19 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2944/session/dde137d106acf23d75ba4001074430a9/element {"value": "//*[@id='panel-1012-body']/div[1]", "using": "xpath", "sessionId": "dde137d106acf23d75ba4001074430a9"}
+Fri, 08 May 2015 17:00:20 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:20 remote_connection.py[line:363] DEBUG GET http://127.0.0.1:2944/session/dde137d106acf23d75ba4001074430a9/element/0.7904020710848272-1/text {"id": "0.7904020710848272-1", "sessionId": "dde137d106acf23d75ba4001074430a9"}
+Fri, 08 May 2015 17:00:20 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:20 login.py[line:28] INFO iman_download_the_program-->test_3delete_program--> 登录服务器成功.
+Fri, 08 May 2015 17:00:20 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2944/session/dde137d106acf23d75ba4001074430a9/element {"value": "btnE00", "using": "id", "sessionId": "dde137d106acf23d75ba4001074430a9"}
+Fri, 08 May 2015 17:00:20 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:20 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2944/session/dde137d106acf23d75ba4001074430a9/element/0.7904020710848272-2/click {"id": "0.7904020710848272-2", "sessionId": "dde137d106acf23d75ba4001074430a9"}
+Fri, 08 May 2015 17:00:20 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:20 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2944/session/dde137d106acf23d75ba4001074430a9/element {"value": "ext-gen1194", "using": "id", "sessionId": "dde137d106acf23d75ba4001074430a9"}
+Fri, 08 May 2015 17:00:20 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:20 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2944/session/dde137d106acf23d75ba4001074430a9/element/0.7904020710848272-3/click {"id": "0.7904020710848272-3", "sessionId": "dde137d106acf23d75ba4001074430a9"}
+Fri, 08 May 2015 17:00:20 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:20 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2944/session/dde137d106acf23d75ba4001074430a9/element {"value": "downloadProgramManageId-btnWrap", "using": "id", "sessionId": "dde137d106acf23d75ba4001074430a9"}
+Fri, 08 May 2015 17:00:21 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:21 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2944/session/dde137d106acf23d75ba4001074430a9/element/0.7904020710848272-4/click {"id": "0.7904020710848272-4", "sessionId": "dde137d106acf23d75ba4001074430a9"}
+Fri, 08 May 2015 17:00:22 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:22 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2944/session/dde137d106acf23d75ba4001074430a9/element {"value": "//div[@id='softwareManageId-body']/div/table/tbody/tr[2]", "using": "xpath", "sessionId": "dde137d106acf23d75ba4001074430a9"}
+Fri, 08 May 2015 17:00:22 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:22 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2944/session/dde137d106acf23d75ba4001074430a9/element/0.7904020710848272-5/click {"id": "0.7904020710848272-5", "sessionId": "dde137d106acf23d75ba4001074430a9"}
+Fri, 08 May 2015 17:00:22 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:22 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2944/session/dde137d106acf23d75ba4001074430a9/element {"value": "deleteSoftwareId-btnEl", "using": "id", "sessionId": "dde137d106acf23d75ba4001074430a9"}
+Fri, 08 May 2015 17:00:22 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:22 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2944/session/dde137d106acf23d75ba4001074430a9/element/0.7904020710848272-6/click {"id": "0.7904020710848272-6", "sessionId": "dde137d106acf23d75ba4001074430a9"}
+Fri, 08 May 2015 17:00:22 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:22 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2944/session/dde137d106acf23d75ba4001074430a9/element {"value": "//*[@id='button-1006-btnEl']", "using": "xpath", "sessionId": "dde137d106acf23d75ba4001074430a9"}
+Fri, 08 May 2015 17:00:22 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:22 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2944/session/dde137d106acf23d75ba4001074430a9/element/0.7904020710848272-7/click {"id": "0.7904020710848272-7", "sessionId": "dde137d106acf23d75ba4001074430a9"}
+Fri, 08 May 2015 17:00:22 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:24 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2944/session/dde137d106acf23d75ba4001074430a9/element {"value": "messagebox-1001-displayfield-inputEl", "using": "id", "sessionId": "dde137d106acf23d75ba4001074430a9"}
+Fri, 08 May 2015 17:00:24 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:24 remote_connection.py[line:363] DEBUG GET http://127.0.0.1:2944/session/dde137d106acf23d75ba4001074430a9/element/0.7904020710848272-8/text {"id": "0.7904020710848272-8", "sessionId": "dde137d106acf23d75ba4001074430a9"}
+Fri, 08 May 2015 17:00:24 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:24 iman_download_the_program.py[line:133] INFO iman_download_the_program-->test_3delete_program--> 删除成功！
+Fri, 08 May 2015 17:00:26 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2944/session/dde137d106acf23d75ba4001074430a9/element {"value": "button-1005", "using": "id", "sessionId": "dde137d106acf23d75ba4001074430a9"}
+Fri, 08 May 2015 17:00:26 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:26 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:2944/session/dde137d106acf23d75ba4001074430a9/element/0.7904020710848272-9/click {"id": "0.7904020710848272-9", "sessionId": "dde137d106acf23d75ba4001074430a9"}
+Fri, 08 May 2015 17:00:26 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 17:00:26 remote_connection.py[line:363] DEBUG DELETE http://127.0.0.1:2944/session/dde137d106acf23d75ba4001074430a9 {"sessionId": "dde137d106acf23d75ba4001074430a9"}
+Fri, 08 May 2015 17:00:27 remote_connection.py[line:458] DEBUG Finished Request
+": "dde137d106acf23d75ba4001074430a9"}
+Finished Request

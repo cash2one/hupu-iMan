@@ -2,18 +2,23 @@
 __author__ = 'cody.guo'
 import re
 
-class ParserHTML():
-	def __init__(self,value):
-		self.value = value
-	def __getattr__(self, name):
-		print( name )
-		regx = re.compile(r'<' + name + r'.*?>.*</' + name + r'>')
-		return re.findall(regx, self.value)
+# class ParserHTML():
+# 	def __init__(self,value):
+# 		self.value = value
+# 	def __getattr__(self, name):
+# 		print( name )
+# 		regx = re.compile(r'<' + name + r'.*?>.*</' + name + r'>')
+# 		return re.findall(regx, self.value)
 
-reg = ParserHTML("html")
-print( reg.li )
+# reg = ParserHTML("html")
+# print( reg.li )
 
-
+import logging,os
+logging.basicConfig(filename = os.path.join(os.getcwd(), 'log.txt'), level = logging.DEBUG)
+log = logging.getLogger('root')
+log2 = logging.getLogger('test')
+log.debug('%s, %s, %s', *('error', 'debug', 'info'))
+log2.debug('%(module)s, %(info)s', {'module': 'log', 'info': 'error'})
 
 # import HTMLParser
 

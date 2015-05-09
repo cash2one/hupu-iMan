@@ -23,9 +23,9 @@ def sentmail(file_new, filename):
 	#定义正文
 	f = open(file_new, 'rb')
 	mail_body = f.read()
-	# print(mail_body)
+	print(mail_body)
 	f.close()
-	# print(file_new)
+	print(file_new)
 	
 
 	#定义标题
@@ -70,7 +70,7 @@ def sendreport():
 	
 	#找到最新生成的文件
 	file_new = os.path.join(result_dir, lists[-1])
-	# print(file_new)
+	print(file_new)
 
 	#调用发邮件模块
 	sentmail(file_new, lists[-1])

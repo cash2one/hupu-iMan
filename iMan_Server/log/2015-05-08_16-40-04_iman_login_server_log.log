@@ -1,0 +1,41 @@
+Fri, 08 May 2015 16:40:05 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:10932/session {"desiredCapabilities": {"platform": "ANY", "browserName": "chrome", "chromeOptions": {"extensions": [], "args": []}, "javascriptEnabled": true, "version": ""}}
+Fri, 08 May 2015 16:40:06 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:40:06 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:10932/session/2016b78449345264593ed535cebbcbbf/timeouts/implicit_wait {"sessionId": "2016b78449345264593ed535cebbcbbf", "ms": 30000.0}
+Fri, 08 May 2015 16:40:06 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:40:06 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:10932/session/2016b78449345264593ed535cebbcbbf/window/current/maximize {"sessionId": "2016b78449345264593ed535cebbcbbf", "windowHandle": "current"}
+Fri, 08 May 2015 16:40:06 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:40:06 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:10932/session/2016b78449345264593ed535cebbcbbf/url {"url": "http://10.10.3.228/admin/", "sessionId": "2016b78449345264593ed535cebbcbbf"}
+Fri, 08 May 2015 16:40:09 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:40:09 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:10932/session/2016b78449345264593ed535cebbcbbf/element {"sessionId": "2016b78449345264593ed535cebbcbbf", "value": "//*[@id='tr0']/div/img", "using": "xpath"}
+Fri, 08 May 2015 16:40:09 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:40:09 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:10932/session/2016b78449345264593ed535cebbcbbf/element/0.579127101926133-1/click {"id": "0.579127101926133-1", "sessionId": "2016b78449345264593ed535cebbcbbf"}
+Fri, 08 May 2015 16:40:09 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:40:09 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:10932/session/2016b78449345264593ed535cebbcbbf/element {"sessionId": "2016b78449345264593ed535cebbcbbf", "value": "accountId", "using": "id"}
+Fri, 08 May 2015 16:40:09 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:40:09 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:10932/session/2016b78449345264593ed535cebbcbbf/element/0.5959210409782827-1/value {"id": "0.5959210409782827-1", "sessionId": "2016b78449345264593ed535cebbcbbf", "value": ["a", "d", "m", "i", "n"]}
+Fri, 08 May 2015 16:40:10 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:40:10 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:10932/session/2016b78449345264593ed535cebbcbbf/element {"sessionId": "2016b78449345264593ed535cebbcbbf", "value": "passwordId", "using": "id"}
+Fri, 08 May 2015 16:40:10 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:40:10 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:10932/session/2016b78449345264593ed535cebbcbbf/element/0.5959210409782827-2/value {"id": "0.5959210409782827-2", "sessionId": "2016b78449345264593ed535cebbcbbf", "value": ["a", "d", "m", "i", "n"]}
+Fri, 08 May 2015 16:40:10 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:40:10 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:10932/session/2016b78449345264593ed535cebbcbbf/element {"sessionId": "2016b78449345264593ed535cebbcbbf", "value": "companycodeId", "using": "id"}
+Fri, 08 May 2015 16:40:10 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:40:10 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:10932/session/2016b78449345264593ed535cebbcbbf/element/0.5959210409782827-3/value {"id": "0.5959210409782827-3", "sessionId": "2016b78449345264593ed535cebbcbbf", "value": ["1", "0", "0", "0", "0", "0", "0", "0"]}
+Fri, 08 May 2015 16:40:10 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:40:10 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:10932/session/2016b78449345264593ed535cebbcbbf/element {"sessionId": "2016b78449345264593ed535cebbcbbf", "value": "//input[@type='submit']", "using": "xpath"}
+Fri, 08 May 2015 16:40:10 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:40:10 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:10932/session/2016b78449345264593ed535cebbcbbf/element/0.5959210409782827-4/click {"id": "0.5959210409782827-4", "sessionId": "2016b78449345264593ed535cebbcbbf"}
+Fri, 08 May 2015 16:40:10 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:40:10 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:10932/session/2016b78449345264593ed535cebbcbbf/element {"sessionId": "2016b78449345264593ed535cebbcbbf", "value": "//*[@id='panel-1012-body']/div[1]", "using": "xpath"}
+Fri, 08 May 2015 16:40:11 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:40:11 remote_connection.py[line:363] DEBUG GET http://127.0.0.1:10932/session/2016b78449345264593ed535cebbcbbf/element/0.6298675283323973-1/text {"id": "0.6298675283323973-1", "sessionId": "2016b78449345264593ed535cebbcbbf"}
+Fri, 08 May 2015 16:40:11 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:40:11 login.py[line:28] INFO iman_login_server-->test_login_server--> 登录服务器成功.
+Fri, 08 May 2015 16:40:11 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:10932/session/2016b78449345264593ed535cebbcbbf/element {"sessionId": "2016b78449345264593ed535cebbcbbf", "value": "//*[@id='panel-1012-body']/div[1]", "using": "xpath"}
+Fri, 08 May 2015 16:40:11 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:40:11 remote_connection.py[line:363] DEBUG GET http://127.0.0.1:10932/session/2016b78449345264593ed535cebbcbbf/element/0.6298675283323973-1/text {"id": "0.6298675283323973-1", "sessionId": "2016b78449345264593ed535cebbcbbf"}
+Fri, 08 May 2015 16:40:11 remote_connection.py[line:458] DEBUG Finished Request
+Fri, 08 May 2015 16:40:11 remote_connection.py[line:363] DEBUG DELETE http://127.0.0.1:10932/session/2016b78449345264593ed535cebbcbbf {"sessionId": "2016b78449345264593ed535cebbcbbf"}
+Fri, 08 May 2015 16:40:11 remote_connection.py[line:458] DEBUG Finished Request
+d": "2016b78449345264593ed535cebbcbbf"}
+Finished Request

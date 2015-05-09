@@ -1,0 +1,7 @@
+DEBUG:root:log, error
+DEBUG:root:error, debug, info
+DEBUG:root:log, error
+DEBUG:root:error, debug, info
+DEBUG:test:log, error
+DEBUG:root:error, debug, info
+DEBUG:test:log, error
