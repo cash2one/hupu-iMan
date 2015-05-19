@@ -10,6 +10,7 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from email.mime.image import MIMEImage
 
+
 global RESULT_FILE_NAME
 RESULT_FILE_NAME = "自动化测试报告"
 

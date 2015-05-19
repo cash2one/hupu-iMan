@@ -25,7 +25,7 @@ from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 
 # 打开通讯debug
 logging.basicConfig(level=logging.DEBUG,
-	                format='%(asctime)s %(filename)s[line:%(lineno)d] %(levelname)s %(message)s',  
+	                # format='%(asctime)s %(filename)s[line:%(lineno)d] %(levelname)s %(message)s',  
                     datefmt='%a, %d %b %Y %H:%M:%S',)
 
 # 指定浏览器位置运行
@@ -34,14 +34,17 @@ os.environ["webdriver.firefox.bin"] = firefoxBin
 
 
 
-browser = webdriver.Remote(desired_capabilities=DesiredCapabilities.FIREFOX)
+# browser = webdriver.Remote(desired_capabilities=DesiredCapabilities.FIREFOX)
+newFirefox = webdriver.FirefoxProfile(r"C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\o9ai4o08.default")
+browser = webdriver.Firefox(newFirefox)
+
 browser.implicitly_wait(30)
-browser.get("http://10.10.3.227/admin")
+browser.get("http://www.baidu.com")
 time.sleep(2)
-browser.find_element_by_id("tr1").click()
+# browser.find_element_by_id("tr1").click()
 
 # 获取控制器的验证码
-tmp = browser.find_element_by_id("randField").get_attribute("value")
+# tmp = browser.find_element_by_id("randField").get_attribute("value")
 print("#" * 30 + "本次的验证码为: " + tmp + "#" * 30)
 
 
