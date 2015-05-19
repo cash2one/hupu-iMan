@@ -65,16 +65,15 @@ if __name__ == '__main__':
     time.sleep(1)
     # imgurl = browser.find_element_by_id("mVcodeImg").location
     # size = browser.find_element_by_id("mVcodeImg").size
-    size = browser.find_element_by_xpath("//*[@id='loginForm']/div/ul[2]/li[4]/div/div/div[3]/img").size
-    imgurl = browser.find_element_by_xpath("//*[@id='loginForm']/div/ul[2]/li[4]/div/div/div[3]/img").location
-
+    size = browser.find_element_by_xpath("//*[@id='loginForm']/div/ul[2]/li[4]/div/div/div[3]/img").size # 获取12306验证码图片大小
+    imgurl = browser.find_element_by_xpath("//*[@id='loginForm']/div/ul[2]/li[4]/div/div/div[3]/img").location # 获取12306验证码坐标
     # print("size" + str(size))
     # print("imgurl" + str(imgurl))
-    time.sleep(1)
+    time.sleep(1) # 等待验证码图片加载完毕
     warningheight = 60 # Chrome浏览器到body之间的距离,不同浏览器不一样,需要重新计算
-    gbox = (int(imgurl["x"]), imgurl["y"] + warningheight, int(imgurl["x"]) + size["width"], imgurl["y"] + size["height"] + warningheight)
-    img = ImageGrab.grab(gbox)
-    img.save("cody.png")
+    gbox = (int(imgurl["x"]), imgurl["y"] + warningheight, int(imgurl["x"]) + size["width"], imgurl["y"] + size["height"] + warningheight) 
+    img = ImageGrab.grab(gbox) # 截取验证码图片部分
+    img.save("cody.png") # 保存验证码图片
 
     name = "cody.png"
     im = open(name, 'rb').read()
